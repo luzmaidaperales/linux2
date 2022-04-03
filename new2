@@ -27,9 +27,7 @@ echo "Install XFCE"
 echo "===================================="
 sudo apt install -y lubuntu-desktop > /dev/null 2>&1
 echo "=======25%"
-sudo apt install firefox -y > /dev/null 2>&1
 echo "=============50%"
-sudo apt install firefox -y > /dev/null 2>&1
 sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg --install google-chrome-stable_current_amd64.deb
 sudo apt install --assume-yes --fix-broken
