@@ -25,7 +25,7 @@ clear
 echo "===================================="
 echo "Install XFCE"
 echo "===================================="
-sudo apt install -y lubuntu-core lubuntu-icon-theme lubuntu-restricted-extras > /dev/null 2>&1
+sudo apt install -y ubuntu-mate-desktop > /dev/null 2>&1
 echo "=======25%"
 echo "=============50%"
 sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
